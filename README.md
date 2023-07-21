@@ -11,7 +11,7 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 
 <hr/>
 
-### Connect with me
+🌐 **Connect with me**
 
 [![linkeding](./assets/linkedin.svg)](https://linkedin.com/in/clementvtrd)&nbsp;&nbsp;&nbsp;[![devdotto](./assets/devdotto.svg)](https://dev.to/clementvtrd)
 
