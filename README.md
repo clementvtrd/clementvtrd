@@ -14,3 +14,6 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 ### Connect with me
 
 [![linkeding](./assets/linkedin.svg)](https://linkedin.com/in/clementvtrd)&nbsp;&nbsp;&nbsp;[![devdotto](./assets/devdotto.svg)](https://dev.to/clementvtrd)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
