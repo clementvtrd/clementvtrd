@@ -15,58 +15,58 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 [![linkeding](./assets/linkedin.svg)](https://linkedin.com/in/clementvtrd)&nbsp;&nbsp;&nbsp;[![devdotto](./assets/devdotto.svg)](https://dev.to/clementvtrd)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 11.1 kB Used in GitHub's Storage
- >
-> 🏆 1,868 Contributions in the Year 2023
- >
+> 📦 11.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,869 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
- >
-> 📜 5 Public Repositories
- >
-> 🔑 4 Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24979 commits       ███████████░░░░░░░░░░░░░░   42.10 %
-🌆 Daytime                29776 commits       █████████████░░░░░░░░░░░░   50.19 %
-🌃 Evening                3928 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-🌙 Night                  647 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+🌞 Morning                25129 commits       ███████████░░░░░░░░░░░░░░   42.07 % 
+🌆 Daytime                30009 commits       █████████████░░░░░░░░░░░░   50.25 % 
+🌃 Evening                3940 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌙 Night                  647 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
-📅 **I'm Most Productive on Tuesday**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   13305 commits       ██████░░░░░░░░░░░░░░░░░░░   22.43 %
-Tuesday                  14125 commits       ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-Wednesday                12055 commits       █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Thursday                 12137 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Friday                   7510 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Saturday                 51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Sunday                   147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-PHP                      2 hrs 17 mins       ████████████████░░░░░░░░░   64.48 %
-YAML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 %
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Monday                   13400 commits       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Tuesday                  14191 commits       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Wednesday                12148 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Thursday                 12203 commits       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Friday                   7584 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Saturday                 51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Sunday                   148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
-**I Mostly Code in PHP**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-PHP                      17 repos            ████████████░░░░░░░░░░░░░   50.00 %
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+💬 Programming Languages: 
+PHP                      2 hrs 17 mins       ████████████████░░░░░░░░░   64.48 % 
+YAML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
