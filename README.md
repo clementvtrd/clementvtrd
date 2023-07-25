@@ -1,4 +1,4 @@
-<p align="right"><a href="https://linkedin.com/in/clementvtrd"><img alt="linkeding" src="./assets/linkedin.svg"</a></p>
+<p align="right"><a target="_blank" href="https://linkedin.com/in/clementvtrd"><img alt="linkeding" src="./assets/linkedin.svg"</a></p>
 
 <img src="./assets/header.jpg" alt="Hello! I am Clément" />
 
