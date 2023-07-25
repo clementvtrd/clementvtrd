@@ -15,7 +15,7 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 
 > 📦 11.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,875 Contributions in the Year 2023
+> 🏆 1,890 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,33 +26,42 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26560 commits       ███████████░░░░░░░░░░░░░░   42.05 % 
-🌆 Daytime                31800 commits       █████████████░░░░░░░░░░░░   50.35 % 
-🌃 Evening                4129 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-🌙 Night                  672 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+🌞 Morning                20758 commits       ██████████░░░░░░░░░░░░░░░   41.89 % 
+🌆 Daytime                24954 commits       █████████████░░░░░░░░░░░░   50.36 % 
+🌃 Evening                3297 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+🌙 Night                  547 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   14189 commits       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Tuesday                  14976 commits       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Wednesday                12889 commits       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Thursday                 12866 commits       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Friday                   8036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   153 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Monday                   11101 commits       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Tuesday                  11656 commits       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Wednesday                10021 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Thursday                 10152 commits       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Friday                   6442 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Saturday                 47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Sunday                   137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Europe/Paris
+
 💬 Programming Languages: 
 TypeScript               3 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.23 % 
 PHP                      2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.22 % 
 YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+
+🐱‍💻 Projects: 
+deliver-events           4 hrs 28 mins       ██████████████░░░░░░░░░░░   55.35 % 
+scrumatic                2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+clementvtrd              41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+deliver-mobile           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+deliver                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 **I Mostly Code in PHP** 
