@@ -10,16 +10,16 @@ Recently, I have been delving deep into **hexagonal architecture** with **Symfon
 
 This journey has kept me at the forefront of emerging technologies and up-to-date with the latest advancements in the web industry. My goal is to keep pushing the boundaries of my skills and to explore exciting new possibilities in the world of web and mobile development.
 
-<p float="left">
-  <img alt="VS Code" src="/assets/visualstudiocode.svg">
-  <img alt="GitHub" src="/assets/github.svg">
-  <img alt="GitHub Action" src="/assets/githubactions.svg">
-  <img alt="Symfony" src="/assets/symfony.svg">
-  <img alt="GraphQL" src="/assets/graphql.svg">
-  <img alt="React" src="/assets/react.svg">
-  <img alt="Apollo GraphQL" src="/assets/apollographql.svg">
-  <img alt="DigitalOcean" src="/assets/digitalocean.svg">
-</p>
+**🔧 My tools**
+
+![VS Code](./assets/visualstudiocode.svg)&nbsp;&nbsp;&nbsp;
+![GitHub](./assets/github.svg)&nbsp;&nbsp;&nbsp;
+![GitHub Action](./assets/githubactions.svg)&nbsp;&nbsp;&nbsp;
+![Symfony](./assets/symfony.svg)&nbsp;&nbsp;&nbsp;
+![GraphQL](./assets/graphql.svg)&nbsp;&nbsp;&nbsp;
+![React](./assets/react.svg)&nbsp;&nbsp;&nbsp;
+![Apollo GraphQL](./assets/apollographql.svg)&nbsp;&nbsp;&nbsp;
+![DigitalOcean](./assets/digitalocean.svg)&nbsp;&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 
