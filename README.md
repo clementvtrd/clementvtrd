@@ -1,4 +1,4 @@
-<p align="right"><a target="_blank" href="https://linkedin.com/in/clementvtrd"><img alt="linkeding" src="./assets/linkedin.svg"</a></p>
+<p align="right"><a href="https://linkedin.com/in/clementvtrd"><img alt="linkeding" src="./assets/linkedin.svg"></a></p>
 
 <img src="./assets/header.jpg" alt="Hello! I am Clément" />
 
@@ -11,14 +11,14 @@ Recently, I have been delving deep into **hexagonal architecture** with **Symfon
 This journey has kept me at the forefront of emerging technologies and up-to-date with the latest advancements in the web industry. My goal is to keep pushing the boundaries of my skills and to explore exciting new possibilities in the world of web and mobile development.
 
 <p float="left">
-  <img alt="VS Code" src="./assets/visualstudiocode.svg">
-  <img alt="GitHub" src="./assets/github.svg">
-  <img alt="GitHub Action" src="./assets/githubactions.svg">
-  <img alt="Symfony" src="./assets/symfony.svg">
-  <img alt="GraphQL" src="./assets/graphql.svg">
-  <img alt="React" src="./assets/react.svg">
-  <img alt="Apollo GraphQL" src="./assets/apollographql.svg">
-  <img alt="DigitalOcean" src="./assets/digitalocean.svg">
+  <img alt="VS Code" src="/assets/visualstudiocode.svg">
+  <img alt="GitHub" src="/assets/github.svg">
+  <img alt="GitHub Action" src="/assets/githubactions.svg">
+  <img alt="Symfony" src="/assets/symfony.svg">
+  <img alt="GraphQL" src="/assets/graphql.svg">
+  <img alt="React" src="/assets/react.svg">
+  <img alt="Apollo GraphQL" src="/assets/apollographql.svg">
+  <img alt="DigitalOcean" src="/assets/digitalocean.svg">
 </p>
 
 <!--START_SECTION:waka-->
