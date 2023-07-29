@@ -20,6 +20,7 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 ![React](./assets/react.svg)&nbsp;&nbsp;&nbsp;
 ![Apollo GraphQL](./assets/apollographql.svg)&nbsp;&nbsp;&nbsp;
 ![DigitalOcean](./assets/digitalocean.svg)&nbsp;&nbsp;&nbsp;
+![NextJS](./assets/nextjs.svg)&nbsp;&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
