@@ -12,15 +12,16 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 
 **🔧 My tools**
 
-![VS Code icon](./assets/visualstudiocode.svg "visualstudiocode")&nbsp;&nbsp;&nbsp;
-![DigitalOcean icon](./assets/digitalocean.svg "digitalocean")&nbsp;&nbsp;&nbsp;
-![GitHub icon](./assets/github.svg "github")&nbsp;&nbsp;&nbsp;
-![GitHub Action icon](./assets/githubactions.svg "githubactions")&nbsp;&nbsp;&nbsp;
-![React icon](./assets/react.svg "react")&nbsp;&nbsp;&nbsp;
-![Apollo GraphQL icon](./assets/apollographql.svg "apollographql")&nbsp;&nbsp;&nbsp;
-![Gatsby icon](./assets/gatsby.svg "gatsby")&nbsp;&nbsp;&nbsp;
-![GraphQL icon](./assets/graphql.svg "graphql")&nbsp;&nbsp;&nbsp;
-![Symfony icon](./assets/symfony.svg "symfony")&nbsp;&nbsp;&nbsp;
+![VS Code icon](./assets/visualstudiocode.svg "VS Code")&nbsp;&nbsp;&nbsp;
+![DigitalOcean icon](./assets/digitalocean.svg "DigitalOcean")&nbsp;&nbsp;&nbsp;
+![Terraform icon](./assets/terraform.svg "Terraform")&nbsp;&nbsp;&nbsp;
+![GitHub icon](./assets/github.svg "GitHub")&nbsp;&nbsp;&nbsp;
+![GitHub Action icon](./assets/githubactions.svg "Github Actions")&nbsp;&nbsp;&nbsp;
+![Symfony icon](./assets/symfony.svg "Symfony")&nbsp;&nbsp;&nbsp;
+![GraphQL icon](./assets/graphql.svg "GraphQL")&nbsp;&nbsp;&nbsp;
+![React icon](./assets/react.svg "React")&nbsp;&nbsp;&nbsp;
+![Apollo GraphQL icon](./assets/apollographql.svg "Apollo GraphQL")&nbsp;&nbsp;&nbsp;
+![Gatsby icon](./assets/gatsby.svg "Gatsby")&nbsp;&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data**
