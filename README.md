@@ -24,71 +24,71 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 ![Gatsby icon](./assets/gatsby.svg "Gatsby")&nbsp;&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 13.6 kB Used in GitHub's Storage
- >
-> 🏆 2,021 Contributions in the Year 2023
- >
+> 📦 13.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,048 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
- >
-> 📜 5 Public Repositories
- >
-> 🔑 5 Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                31173 commits       ███████████░░░░░░░░░░░░░░   42.19 %
-🌆 Daytime                37141 commits       █████████████░░░░░░░░░░░░   50.27 %
-🌃 Evening                4775 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-🌙 Night                  791 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+🌞 Morning                29799 commits       ██████████░░░░░░░░░░░░░░░   41.96 % 
+🌆 Daytime                35955 commits       █████████████░░░░░░░░░░░░   50.63 % 
+🌃 Evening                4518 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌙 Night                  741 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
-📅 **I'm Most Productive on Tuesday**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   16584 commits       ██████░░░░░░░░░░░░░░░░░░░   22.45 %
-Tuesday                  17735 commits       ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Wednesday                15132 commits       █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Thursday                 14999 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-Friday                   9205 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Saturday                 59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Sunday                   166 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Monday                   15974 commits       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Tuesday                  16806 commits       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Wednesday                14609 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Thursday                 14362 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Friday                   9039 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   166 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages:
-TypeScript               4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 %
-YAML                     4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 %
-PHP                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+💬 Programming Languages: 
+TypeScript               5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+YAML                     4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Docker                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
-🐱‍💻 Projects:
-deliver-events           11 hrs 38 mins      ████████████████░░░░░░░░░   64.31 %
-latetedanslesfeuilles    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
-deliver-mobile           2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 %
-clementvtrd              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-deliver                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+🐱‍💻 Projects: 
+deliver-events           8 hrs 57 mins       █████████████░░░░░░░░░░░░   51.92 % 
+deliver-mobile           3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+latetedanslesfeuilles    3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+clementvtrd              1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+deliver                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
-**I Mostly Code in PHP**
+**I Mostly Code in PHP** 
 
 ```text
-PHP                      18 repos            ████████████░░░░░░░░░░░░░   50.00 %
-TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+PHP                      19 repos            █████████████░░░░░░░░░░░░   51.35 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 03/08/2023 UTC
+ Last Updated on 04/08/2023 UTC
 <!--END_SECTION:waka-->
