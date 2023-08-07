@@ -21,7 +21,6 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
 ![GraphQL icon](./assets/graphql.svg "GraphQL")&nbsp;&nbsp;&nbsp;
 ![React icon](./assets/react.svg "React")&nbsp;&nbsp;&nbsp;
 ![Apollo GraphQL icon](./assets/apollographql.svg "Apollo GraphQL")&nbsp;&nbsp;&nbsp;
-![Gatsby icon](./assets/gatsby.svg "Gatsby")&nbsp;&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
