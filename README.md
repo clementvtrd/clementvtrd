@@ -1,6 +1,8 @@
 <p align="right"><a href="https://linkedin.com/in/clementvtrd"><img alt="linkeding" src="./assets/linkedin.svg"></a></p>
 
-<img src="./assets/header.jpg" alt="Hello! I am Clément" />
+![An image of @clementvtrd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/clementvtrd)
+
+# Hello, I'm Clément!
 
 I am a **web enthusiast** with a strong passion for creating and developing solutions.
 
