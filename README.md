@@ -41,25 +41,9 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
     src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/github.svg"
     title="GitHub" />&nbsp;&nbsp;&nbsp;
   <img
-    alt="GitHub Action icon"
-    src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/githubactions.svg"
-    title="Github Actions" />&nbsp;&nbsp;&nbsp;
-  <img
     alt="Symfony icon"
     src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/symfony.svg"
     title="Symfony" />&nbsp;&nbsp;&nbsp;
-  <img
-    alt="GraphQL icon"
-    src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/graphql.svg"
-    title="GraphQL" />&nbsp;&nbsp;&nbsp;
-  <img
-    alt="React icon"
-    src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/react.svg"
-    title="React" />&nbsp;&nbsp;&nbsp;
-  <img
-    alt="Apollo GraphQL icon"
-    src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/apollographql.svg"
-    title="Apollo GraphQL" />&nbsp;&nbsp;&nbsp;
   <img
     alt="NextJS icon"
     src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/nextdotjs.svg"
