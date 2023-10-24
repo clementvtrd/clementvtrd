@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    alt="An image of @clementvtrd's Holopin badges"
-    src="https://holopin.me/clementvtrd"
-  />
-</p>
-
 # Hello, I'm Clément!
 
 I am a **web enthusiast** with a strong passion for creating and developing solutions.
