@@ -26,10 +26,6 @@ This journey has kept me at the forefront of emerging technologies and up-to-dat
     src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/digitalocean.svg"
     title="DigitalOcean" />&nbsp;&nbsp;&nbsp;
   <img
-    alt="Terraform icon"
-    src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/terraform.svg"
-    title="Terraform" />&nbsp;&nbsp;&nbsp;
-  <img
     alt="GitHub icon"
     src="https://github.com/clementvtrd/clementvtrd/raw/main/assets/github.svg"
     title="GitHub" />&nbsp;&nbsp;&nbsp;
