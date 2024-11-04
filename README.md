@@ -18,7 +18,8 @@
 
 ### [Other Notable Projects](#)
 - **Symfony monolith**: A alternative for my hexagonal boilerplate with FrankenPHP as server
-- **Learning Swift** (wip): A project built with Swift to test Swift ; SwiftUI and Metal
+- **[Learning NestJS](https://github.com/clementvtrd/docteur-oitson)** (WIP): A Discord bot built with NestJS, Necord (Discord.js module for Nest), and Inngest to handle asynchronous events.
+    - _I started this project to replace the popular bot Mee6 on a friend's server. Mee6 has become chargeable for the few features my friend needs, and with the specifications already defined, it’s a great opportunity to learn a new framework._
 
 ## Skills
 
