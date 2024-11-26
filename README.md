@@ -21,7 +21,7 @@
 
 ### [Hexagonal boilerplate](#)
 - **Technologies**: Symfony, Next.js, TailwindCSS, TypeScript
-- _A starter with all useful tools already setup like authentication, messenger and doctrine_
+    - _A starter with all useful tools already setup like messenger, doctrine, docker, php cs fixer, phpstan and deptrac_
 
 ### [Other Notable Projects](#)
 - **Symfony monolith**: A alternative for my hexagonal boilerplate with FrankenPHP as server
