@@ -23,12 +23,6 @@
 - **Technologies**: Symfony, Next.js, TailwindCSS, TypeScript
     - _A starter with all useful tools already setup like messenger, doctrine, docker, php cs fixer, phpstan and deptrac_
 
-### [Other Notable Projects](#)
-- **Symfony monolith**: A alternative for my hexagonal boilerplate with FrankenPHP as server
-- **[Learning NestJS](https://github.com/clementvtrd/docteur-oitson)** (WIP): A Discord bot built with NestJS, Necord (Discord.js module for Nest), and Inngest to handle asynchronous events.
-    - <i>I started this project to replace the popular bot Mee6 on a friend's server. Mee6 has become chargeable for the few features my friend needs, and with the specifications already defined, it’s a great opportunity to learn a new framework.</i>
- 
-
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/clementvtrd" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=clementvtrd&show_icons=true&locale=en" alt="clementvtrd" /></p>
