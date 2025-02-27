@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Clément</h1>
+
 <h2>A passionate developer from France </h2>
 
 <h3>About me</h3>
@@ -35,9 +36,9 @@ If you're curious about my trip, you can check out the website I made for my fam
 - **Technologies**: Symfony, Next.js, TailwindCSS, TypeScript
     - _A starter with all useful tools already setup like messenger, doctrine, docker, php cs fixer, phpstan and deptrac_
 
-<h3>⚡️ Where to find me</h3>
-<p><a target="_blank" href="https://www.linkedin.com/in/clementvtrd" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=clementvtrd&show_icons=true&locale=en" alt="clementvtrd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clementvtrd&" alt="clementvtrd" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clementvtrd&show_icons=true&locale=en&layout=compact" alt="clementvtrd" /></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=clementvtrd" alt="clementvtrd" /></p>
+---
+<p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/clementvtrd">
+      <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+    </a>
+</p>
