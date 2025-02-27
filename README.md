@@ -32,9 +32,10 @@ If you're curious about my trip, you can check out the website I made for my fam
 
 ### Projects
 
-#### [Hexagonal boilerplate](#)
-- **Technologies**: Symfony, Next.js, TailwindCSS, TypeScript
-    - _A starter with all useful tools already setup like messenger, doctrine, docker, php cs fixer, phpstan and deptrac_
+[![Boilerplate Hexagonal card](https://github-readme-stats.vercel.app/api/pin/?username=clementvtrd&repo=boilerplate-hexagonal)](https://github.com/clementvtrd/boilerplate-hexagonal)
+[![NextJS Prisma card](https://github-readme-stats.vercel.app/api/pin/?username=clementvtrd&repo=nextjs-prisma)](https://github.com/clementvtrd/nextjs-prisma)
+[![My dotfiles card](https://github-readme-stats.vercel.app/api/pin/?username=clementvtrd&repo=dotfiles)](https://github.com/clementvtrd/dotfiles)
+
 
 ---
 <p align="center">
