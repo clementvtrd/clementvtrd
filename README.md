@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Clément</h1>
 
-<h2>A passionate developer from France </h2>
+<h2>Fullstack developer crafting web & mobile experiences with Symfony & React. Powered by coffee ☕ & a love for cats 😻</h2>
 
 <h3>About me</h3>
 
