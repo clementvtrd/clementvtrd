@@ -31,11 +31,3 @@ When my boss and my cats allow it, I spend time learning **Japanese**. I've been
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
----
-
-<p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/clementvtrd">
-      <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-    </a>
-</p>
