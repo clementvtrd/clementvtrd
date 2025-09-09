@@ -29,3 +29,4 @@ When my boss and my cats allow it, I spend time learning **Japanese**. I've been
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000000?logo=figma&logoColor=white)
