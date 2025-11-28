@@ -5,7 +5,7 @@
 ## About Me
 
 I'm a French developer currently working at [Le Petit Vapoteur](https://www.lepetitvapoteur.com) building robust applications. I’ve specialized in the **Symfony** and **React** ecosystems to create useful and maintainable tools. I mostly work to spoil my two cats, Zig & Zag (nicknamed *Zig-Zag* because they think nighttime is for chaos 😼).  
-When my boss and my cats allow it, I spend time learning **Japanese**. I've been fascinated by Japanese landscapes since childhood and started learning the language to travel there.  
+When my cats allow it, I spend time learning **Japanese**. I've been fascinated by Japanese landscapes since childhood and started learning the language to travel there.  
 
 ## 🛠 Languages & Tools I Use
 
