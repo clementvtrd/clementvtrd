@@ -19,6 +19,7 @@ When my cats allow it, I spend time learning **Japanese**. I've been fascinated 
 
 ### 🧱 Backend Ecosystem
 
+![Node.JS](https://img.shields.io/badge/NodeJS-215732?logo=Node.JS&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
